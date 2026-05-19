@@ -1,4 +1,4 @@
-# 
+# custom JetBrains IntelliJ IDEA for PC plugins is the best JetBrains IntelliJ IDEA for PC plugins with keyboard-shortcuts and auto-completion. Safe, reliable, and optimized for
 
 
 
